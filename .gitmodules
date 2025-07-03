@@ -1,0 +1,3 @@
+[submodule "Documents/Tellers/tellers/tellers-website/video-player-js"]
+	path = Documents/Tellers/tellers/tellers-website/video-player-js
+	url = git@github.com:undisclosed-team/video-player-js.git
