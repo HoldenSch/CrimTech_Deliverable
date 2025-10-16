@@ -1,1 +1,0 @@
-DEP_CXX:=g++  -I. -MD -MF .deps/.d -MP -std=gnu++2a -fno-exceptions -fno-rtti -ffunction-sections -m64 -mno-mmx -mno-sse -mno-sse2 -mno-sse3 -mno-3dnow -ffreestanding -fno-pic -fno-stack-protector -Wall -W -Wshadow -Wno-format -Wno-unused-parameter  -O2 _ -std=gnu++2a  -Wall -W

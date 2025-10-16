@@ -1,1 +1,0 @@
-DEP_KERNELCXX:=g++  -I. -MD -MF .deps/.d -MP -std=gnu++2a -fno-exceptions -fno-rtti -ffunction-sections -m64 -mno-mmx -mno-sse -mno-sse2 -mno-sse3 -mno-3dnow -ffreestanding -fno-pic -fno-stack-protector -Wall -W -Wshadow -Wno-format -Wno-unused-parameter  -mno-red-zone  -gdwarf-4 -fno-omit-frame-pointer -fno-optimize-sibling-calls -mno-omit-leaf-frame-pointer -O2
